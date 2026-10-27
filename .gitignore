@@ -1,0 +1,13 @@
+target/
+dbt_packages/
+logs/
+dbt_internal_packages/
+.venv/
+__pycache__/
+/profiles.yml
+.claude/settings.local.json
+thelook-dbt-512821-*.json
+*credentials*.json
+*key*.json
+.env*
+!.env.example
